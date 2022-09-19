@@ -19,4 +19,4 @@ The objective of this test is to evaluate the candidate's capability in the foll
 3. Developing a proper user interface to interact with the note taking application
 
 Expected output for reference:
-![alt text](https://github.com/[nowcommsasia]/[interview]/blob/[main]/src/assets/expected.png?raw=true)
+![alt text](https://github.com/nowcommsasia/interview/blob/main/src/assets/expected.png?raw=true)
