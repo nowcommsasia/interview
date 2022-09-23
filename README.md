@@ -18,5 +18,13 @@ The objective of this test is to evaluate the candidate's capability in the foll
 2. Comfort in building a web application with Angular
 3. Developing a proper user interface to interact with the note taking application
 
+You are allowed to use as many assumptions as you like, but don't forget to explain it.
+
 Expected output for reference:
 ![alt text](https://github.com/nowcommsasia/interview/blob/main/src/assets/expected.png?raw=true)
+
+## Bonus
+
+1. Beautify the UI using Material framework (https://material.angular.io/)
+2. Automate test cases using Cypress
+3. Surprise us :)
