@@ -14,9 +14,13 @@ An example to retrieve data from the Firebase endpoint can be found in /src/serv
 
 The objective of this test is to evaluate the candidate's capability in the following areas by building a simple note taking application:
 
-1. Handling CRUD with Firebase
-2. Comfort in building a web application with Angular
-3. Developing a proper user interface to interact with the note taking application
+1. Handling CRUD with Firebase (Create, read, update, delete notes)
+2. Popup a modal on clicking new folder or new note to create
+3. When note is clicked, show the selected note in a modal for the user to read or edit
+4. Allow user to create folder to add notes in it
+5. When folder is clicked, show all notes in the folder
+6. Recent folders should always reflect the folder that was last clicked by the user
+7. Search should search all keywords in all notes and show any notes that contains the keyword in real time
 
 You are allowed to use as many assumptions as you like, but don't forget to explain it.
 
