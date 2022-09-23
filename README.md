@@ -20,7 +20,7 @@ The objective of this test is to evaluate the candidate's capability in the foll
 4. Allow user to create folder to add notes in it
 5. When folder is clicked, show all notes in the folder
 6. Recent folders should always reflect the folder that was last clicked by the user
-7. Search should search all keywords in all notes and show any notes that contains the keyword in real time
+7. Search should search all content in all notes and show any notes that contains the keyword in real time
 
 You are allowed to use as many assumptions as you like, but don't forget to explain it.
 
